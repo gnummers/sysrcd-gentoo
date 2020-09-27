@@ -1,3 +1,5 @@
+# 09.27.2020 - Gnumsploitz is all up in your shit, forking your grandmother with the sushi outside! o_O
+
 Sysrcd-Gentoo
 =============
 
